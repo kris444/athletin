@@ -14,7 +14,7 @@ namespace ianthle.Controllers
         [HttpGet]
         public string SayHello()
         {
-            return "Hello World!";
+            return "Hello PVM!";
         }
     }
 }
